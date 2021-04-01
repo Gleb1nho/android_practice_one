@@ -1,2 +1,1 @@
-# android_practice_one
-Android first practice
+<b>Решение задачи из первой практике майнора по Андроиду</b>
